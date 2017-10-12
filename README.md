@@ -27,6 +27,8 @@ Talent Is Nothing Without Ethics!
   
 **Credit**
 
+  * [@Zormax](https://github.com/Zormax) - Zormax
+
   * [@darklord4822](https://github.com/darklord4822) - Vitaly Tarapatin
   
   * [@MotorolaMobilityLLC](https://github.com/MotorolaMobilityLLC) - Lenovo/Motorola
