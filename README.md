@@ -20,8 +20,13 @@ Talent Is Nothing Without Ethics!
 
 
 **Project Is Owned By:** 
-  Nana Iyke Quame
-  [FB id:](https://www.facebook.com/zac.nana.iyke)
+
+  * Zackie Ai
+  [FB id](https://www.facebook.com/zac.nana.iyke)
+  
   
 **Credit**
-  [@darklord4822](https://github.com/darklord4822) - Vitaly Tarapatin
+
+  * [@darklord4822](https://github.com/darklord4822) - Vitaly Tarapatin
+  
+  * [@MotorolaMobilityLLC](https://github.com/MotorolaMobilityLLC) - Lenovo/Motorola
