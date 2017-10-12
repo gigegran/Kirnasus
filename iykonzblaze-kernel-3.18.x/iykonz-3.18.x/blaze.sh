@@ -123,14 +123,18 @@ cecho C "" "  !! OS : Android 6.0 Marshamallow  "
 echo
 cecho G "" "============================="
 echo
-cecho C "" "  !! Now It Has Been Ported To LG Device  "
+cecho C "" "  !! Now It Was Ported To LG Device  "
 cecho C "" "  !! LG - G3 [T-Mobile][D851] !! "
 echo
 cecho C "" "  !! Chipset : MSM8974AC/PRO  "
 cecho C "" "  !! OS : Android 7.1.1 - Nougat  "
 echo
 echo
-cecho C "" "  !! [OTHER DEVICES WILL BE ADDED SOON]   "
+cecho C "" "  !! Now It Is Available For Lenovo/Motorola Device  "
+cecho C "" "  !! Moto E4 [woods_f][XT1762] !! "
+echo
+cecho C "" "  !! Chipset : MT6737  "
+cecho C "" "  !! OS : Android 7.1.1 - Nougat  "
 echo
 echo
 sleep 3.0;
@@ -199,9 +203,10 @@ then
 fi
 
 #Change toolchain path before using build script!
+#Use UBERTC-arm-eabi-4.9 for now
 cecho C "" "Export toolchains..."
 export ARCH=arm
-export CROSS_COMPILE=/home/zac6ix/WOODS_F[E4]/kernel_motorola_woods_f/toolchain/UBERTC-arm-eabi-4.9/bin/arm-eabi-
+export CROSS_COMPILE=~/woods_f/iykonzBlaze-Kernel/toolchain/UBERTC-arm-eabi-4.9/bin/arm-eabi-
 
 echo ""
 
